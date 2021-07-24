@@ -1,0 +1,25 @@
+{
+  "name": "react-navigation",
+  "version": "1.0.0",
+  "description": "react-navigation by Feroz Shah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsmutimeer/react-nav.git"
+  },
+  "keywords": [
+    "navbar",
+    "react-nav",
+    "fixed",
+    "nav"
+  ],
+  "author": "Feroz S. Mutimeer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsmutimeer/react-nav/issues"
+  },
+  "homepage": "https://github.com/fsmutimeer/react-nav#readme"
+}
