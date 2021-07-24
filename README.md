@@ -2,7 +2,7 @@
 `React Navigation`
 
 ## Set up the project
-`git clone`
-`npm i`
+`git clone`(https://github.com/fsmutimeer/react-nav.git)
+`npm i` to install the node modules
 
 ## Enjoy
