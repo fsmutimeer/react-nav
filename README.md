@@ -1,8 +1,8 @@
-# react-nav
+## react-nav
 `React Navigation`
 
-#Set up the project
+##Set up the project
 `git clone`
-#npm i
+`npm i`
 
-`Enjoy
+`Enjoy`
